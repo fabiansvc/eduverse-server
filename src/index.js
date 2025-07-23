@@ -10,7 +10,7 @@ import SocketServer from "./SocketServer.js";
  * Load environment variables from .env file.
  */
 const clientURLLocalhost = "http://localhost:3000";
-const clientURLDeploy = "https://eduverse-rouge-five.vercel.app/";
+const clientURLDeploy = "https://eduverse-rouge-five.vercel.app";
 const port = 8000;
 
 /**
