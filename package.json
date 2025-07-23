@@ -1,0 +1,29 @@
+{
+  "name": "eduverse-server",
+  "version": "2.0.0",
+  "description": "EduVerse server",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "server",
+    "sockets"
+  ],
+  "author": "Fabian Stiven Valencia Cordoba",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.8",
+    "utf-8-validate": "^5.0.10"
+  },
+  "engines": {
+    "node": ">=20.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
