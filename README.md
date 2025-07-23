@@ -1,4 +1,4 @@
-# Server of the EISC Metaverse
+# Server of the EduVerse
 # Install dependencies: 
 npm install
 # Run project
